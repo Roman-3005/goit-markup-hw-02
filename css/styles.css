@@ -1,7 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 ul,
@@ -27,6 +27,7 @@ a {
 .header-logo .logo-part {
   color: #2e2f42;
 }
+
 /* logo end */
 
 /* link start */
@@ -53,8 +54,49 @@ a {
 .nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
-    color: #404bbf;
+  color: #404bbf;
 }
 /* address end */
 
 /* header end */
+
+/* section Effective Solutions for Your Business start*/
+
+.section-solution {
+  background-color: #2e2f42;
+}
+
+.header-solution {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
+}
+
+.btn {
+  font-family: inherit;
+  background-color: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #404bbf;
+}
+
+/* section Effective Solutions for Your Business end*/
+
+/* footer start */
+.page-footer {
+  background-color: #2e2f42;
+}
+.footer-logo .logo-part {
+    color: #f4f4fd; }
+/* footer end */
