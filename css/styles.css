@@ -27,7 +27,6 @@ a {
 .header-logo .logo-part {
   color: #2e2f42;
 }
-
 /* logo end */
 
 /* link start */
@@ -60,8 +59,7 @@ a {
 
 /* header end */
 
-/* section Effective Solutions for Your Business start*/
-
+/*section-solution start*/
 .section-solution {
   background-color: #2e2f42;
 }
@@ -90,13 +88,98 @@ a {
 .btn:focus {
   background-color: #404bbf;
 }
+/*section-solution*/
 
-/* section Effective Solutions for Your Business end*/
+/* advantag-section start */
+.advantages-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.advantages-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* advantag-section end */
+
+/* team-section start */
+.team-section {
+  background-color: #f4f4fd;
+}
+
+.team-heading {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.team-item {
+  background-color: #ffffff;
+}
+
+.team-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.team-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+/* team-section end */
+
+/* portfolio-section start */
+.portfolio-heading {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.portfolio-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfolio-text {
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* portfolio-section end */
 
 /* footer start */
 .page-footer {
   background-color: #2e2f42;
 }
 .footer-logo .logo-part {
-    color: #f4f4fd; }
+  color: #f4f4fd;
+}
+.footer-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
 /* footer end */
